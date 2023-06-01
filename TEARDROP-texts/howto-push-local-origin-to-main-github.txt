@@ -1,0 +1,52 @@
+STEP 1 - LOCAL DRIVE (origin)
+==========================================================
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ ls -al
+total 32
+drwxrwxr-x 7 wruslan wruslan 4096 Jun  1 13:09 .
+drwxrwxr-x 5 wruslan wruslan 4096 Jun  1 13:09 ..
+drwxrwxr-x 8 wruslan wruslan 4096 Jun  1 12:58 .git
+-rw-rw-r-- 1 wruslan wruslan   77 Jun  1 12:58 README.md
+drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:06 TEARDROP-feedrate-chorderror-analysis
+drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:02 TEARDROP-ngc-codes
+drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:00 TEARDROP-parametric-equation
+drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:03 TEARDROP-screenshots
+
+
+STEP 2
+===========================================================
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git add .
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git commit -m 'add folders, default = main branch'
+[main f86ee15] add folders, default = main branch
+ 12 files changed, 7619 insertions(+)
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-01-Screenshot_2023-05-28_21-15-56.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-02-Screenshot_2023-05-28_21-17-06.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-03-Screenshot_2023-05-28_21-18-10.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-04-Screenshot_2023-05-28_21-19-20.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-05-Screenshot_2023-05-28_21-20-19.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-06-Screenshot_2023-05-28_21-21-28.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-07-Screenshot_2023-05-28_21-22-27.png
+ create mode 100755 TEARDROP-feedrate-chorderror-analysis/Teardrop-08-Screenshot_2023-05-28_21-22-53.png
+ create mode 100755 TEARDROP-ngc-codes/TEARDROP-data_ngcode.ngc
+ create mode 100755 TEARDROP-screenshots/TEARDROP-1-Screenshot_2023-05-28_20-57-42.png
+ create mode 100755 TEARDROP-screenshots/TEARDROP-2-Screenshot_2023-05-28_21-01-43.png
+ create mode 100755 TEARDROP-screenshots/TEARDROP-Perspective-Screenshot_2023-05-28_20-55-14.png
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$
+
+STEP 3
+=========================================================== 
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git push -u origin main
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (17/17), done.
+Writing objects: 100% (17/17), 1.52 MiB | 3.04 MiB/s, done.
+Total 17 (delta 0), reused 0 (delta 0)
+To https://github.com/wruslancnc/TEARDROP-parametric-curve.git
+   1f67daa..f86ee15  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ 
+
+===========================================================
+ALHAMDULILLAH 3 TIMES
+===========================================================
+
