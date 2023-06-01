@@ -1,3 +1,26 @@
+SUMMARY
+===========================================================
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git add .
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git commit -m 'instruction to update push main'
+[main 8fe3544] instruction to update push main
+ 1 file changed, 52 insertions(+)
+ create mode 100644 TEARDROP-texts/howto-push-local-origin-to-main-github.txt
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.10 KiB | 1.10 MiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/wruslancnc/TEARDROP-parametric-curve.git
+   f86ee15..8fe3544  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ 
+
+
+
+==========================================================
 STEP 1 - LOCAL DRIVE (origin)
 ==========================================================
 wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ ls -al
@@ -11,7 +34,7 @@ drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:02 TEARDROP-ngc-codes
 drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:00 TEARDROP-parametric-equation
 drwxrwxr-x 2 wruslan wruslan 4096 Jun  1 13:03 TEARDROP-screenshots
 
-
+===========================================================
 STEP 2
 ===========================================================
 wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git add .
@@ -32,6 +55,7 @@ wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git comm
  create mode 100755 TEARDROP-screenshots/TEARDROP-Perspective-Screenshot_2023-05-28_20-55-14.png
 wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$
 
+===========================================================
 STEP 3
 =========================================================== 
 wruslan@HPLaptop-01-ub20:~/github/wruslancnc/TEARDROP-parametric-curve$ git push -u origin main
