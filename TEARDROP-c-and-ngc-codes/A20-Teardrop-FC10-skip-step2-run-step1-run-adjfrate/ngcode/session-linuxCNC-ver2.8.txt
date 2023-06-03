@@ -1,0 +1,56 @@
+
+The LinuxCNC simulation completed in proper manner. However, the following 
+... MESSAGE APPEARED REPEATEDLY (14 TIMES) FOR 7,357 LINES 
+
+Kah kah kah. After testing in different ways, I found that it was by design
+that the program regularly flushes the memory. He he he. 
+
+IT SAID: glFlush()  # Tidy up ON error: (1285, 'out of memory') Ha ha ha.
+
+==========================================================
+Bismillah 3 times WRY. Starting linuxcnc2.8 ...
+
+wruslan@HPElBk8570w-rtwork1:~$ date
+Thu 21 Jul 2022 03:05:36 AM +08
+
+Choose axis_mm for machine configuration...
+LINUXCNC - 2.8.0
+Machine configuration directory is '/home/wruslan/opt/linuxcnc/configs/sim/axis'
+Machine configuration file is 'axis_mm.ini'
+Starting LinuxCNC...
+Found file(lib): /home/wruslan/opt/linuxcnc/lib/hallib/core_sim.hal
+Note: Using POSIX non-realtime
+Found file(lib): /home/wruslan/opt/linuxcnc/lib/hallib/sim_spindle_encoder.hal
+Found file(lib): /home/wruslan/opt/linuxcnc/lib/hallib/axis_manualtoolchange.hal
+Found file(lib): /home/wruslan/opt/linuxcnc/lib/hallib/simulated_home.hal
+note: MAXV     max: 53.340 units/sec 3200.400 units/min
+note: LJOG     max: 53.340 units/sec 3200.400 units/min
+note: LJOG default: 30.480 units/sec 1828.800 units/min
+note: jog_order='XYZ'
+note: jog_invert=set([])
+task: main loop took 0.054737 seconds
+task: main loop took 0.013927 seconds
+
+Bla bla bla.
+
+
+=====================================================================
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/lib-tk/Tkinter.py", line 1550, in __call__
+    return self.func(*args)
+  File "/usr/lib/python2.7/lib-tk/Tkinter.py", line 599, in callit
+    func(*args)
+  File "/home/wruslan/opt/linuxcnc/bin/axis", line 546, in actual_tkRedraw
+    self.tkRedraw_perspective()
+  File "/home/wruslan/opt/linuxcnc/bin/axis", line 506, in tkRedraw_perspective
+    self.redraw_perspective()
+  File "/home/wruslan/opt/linuxcnc/lib/python/rs274/glcanon.py", line 352, in inner
+    return f(self, *args, **kw)
+  File "/home/wruslan/opt/linuxcnc/lib/python/rs274/glcanon.py", line 599, in redraw_perspective
+    glFlush()                               # Tidy up
+error: (1285, 'out of memory')
+
+=====================================================================
+
+

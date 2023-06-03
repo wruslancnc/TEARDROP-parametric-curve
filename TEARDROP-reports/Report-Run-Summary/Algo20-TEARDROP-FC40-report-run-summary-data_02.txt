@@ -1,0 +1,59 @@
+# DTStamp_FHdata_02 2023-06-03 17:32:16 607972189 
+# Testing data 02 
+Write run report statistics to screen and file. 
+
+A20-TEA (1) EPSILON PROCESSING ERRORS 
+A20-TEA STEP 1 ERRORS 
+A20-TEA count_step1_ERROR_1 =          0 
+A20-TEA count_step1_ERROR_2 =          0 
+A20-TEA STEP 2 ERRORS 
+A20-TEA count_step2_ERROR_1 =          0 
+A20-TEA count_step2_ERROR_2 =          0 
+A20-TEA count_step2_ERROR_3 =          0 
+A20-TEA count_step2_ERROR_4 =          0 
+
+A20-TEA (2) EPSILON COUNT RANGE VALUE STATISTICS 
+A20-TEA cnt_eps_above_10E_6             =          0  (0.000000 %) 
+A20-TEA cnt_eps_betwn_10E_7_upto_10E_6  =       7347  (100.000000 %) 
+A20-TEA cnt_eps_betwn_10E_8_upto_10E_7  =          0  (0.000000 %) 
+A20-TEA cnt_eps_betwn_10E_9_upto_10E_8  =          0  (0.000000 %) 
+A20-TEA cnt_eps_betwn_10E_10_upto_10E_9 =          0  (0.000000 %) 
+A20-TEA cnt_eps_below_10E_10            =          0  (0.000000 %) 
+A20-TEA cnt_eps_total_points processed  =       7347  (100.000000 %) 
+
+A20-TEA (3) INTERPOLATED POINT STATISTICS 
+A20-TEA Count before step1, epsilon is already    below upper bound = 0 (   0.000000  %) 
+A20-TEA Count during step1, pushdown epsilon to   below upper bound = 7347 ( 100.000000  %) 
+A20-TEA After step1 the interpolated points count below upper bound = 7347 (total interpolated points) 
+A20-TEA Count during step2, pushup into range (lower , upper) bound = 0 (total pushup points) 
+
+A20-TEA (4) ADJUST (INCR/DECR) CURR_FRATE TO CALCULATED CURR_FRATE_LIMIT 
+A20-TEA Count_rising_s_curve_points     = 370 	(    5.036069 %) 
+A20-TEA Count_frate_islower_fratelimit  = 4049 	(   55.110930 %) 
+A20-TEA Count_frate_isequal_fratelimit  = 0 	(    0.000000 %) 
+A20-TEA Count_frate_ishigher_fratelimit = 2559 	(   34.830543 %) 
+A20-TEA Count_falling_s_curve_points    = 369 	(    5.022458 %) 
+A20-TEA Total interpolated points       = 7347 	(  100.000000 %) 
+
+A20-TEA (5) CHORD ERROR (CURR_EPS) VARIABLE VALUE STATISTICS 
+A20-TEA eps (min_eps, avg_eps, max_eps, sum_eps) = ( 0.000000e+00, 9.985226e-07, 9.999999e-07 7.335147e-03 )
+A20-TEA At min_eps (line_mineps, u_mineps, x_mineps, y_mineps) = (      0 0.000000e+00 0.000000e+00 0.000000e+00 )
+A20-TEA At max_eps (line_maxeps, u_maxeps, x_maxeps, y_maxeps) = (   7122 9.693635e-01 4.181734e+00 -4.454686e+00 )
+
+A20-TEA (6) RADIUS OF CURVATURE (CURR_RHO) VARIABLE VALUE STATISTICS 
+A20-TEA rho (min, avg, max, sum) = ( 0.000000e+00, 2.750193e+01, 1.059389e+02 2.020292e+05 )
+A20-TEA At min_rho (line_minrho, u_minrho, x_minrho, y_minrho) = (      0 0.000000e+00 0.000000e+00 0.000000e+00 )
+A20-TEA At max_rho (line_maxrho, u_maxrho, x_maxrho, y_maxrho) = (   7346 9.998668e-01 1.997512e-02 -1.998044e-02 )
+
+A20-TEA (7) TANGENTIAL ACCELERATION (CURR_TANG_ACCN) VARIABLE VALUE STATISTICS 
+A20-TEA tangaccn (min, avg, max, sum) = ( -3.199137e+01, -5.093408e-01, 3.174693e+01 -3.741618e+03 )
+A20-TEA At min_tangaccn (line_mintangaccn, u_mintangaccn, x_mintangaccn, y_mintangaccn) = (   6979 9.501504e-01 6.396365e+00 -7.104698e+00 )
+A20-TEA At max_tangaccn (line_maxtangaccn, u_maxtangaccn, x_maxtangaccn, y_maxtangaccn) = (    137 1.871504e-02 -2.651608e+00 -2.754717e+00 )
+
+A20-TEA (8) FEEDRATE (CURR_FRATE) VARIABLE VALUE STATISTICS 
+A20-TEA frate (min, avg, max, sum) = ( 0.000000e+00, 1.252053e+01, 2.607134e+01 9.197579e+04 )
+A20-TEA At min_frate (line_minfrate, u_minfrate, x_minfrate, y_minfrate) = (      0 0.000000e+00 0.000000e+00 0.000000e+00 )
+A20-TEA At max_frate (line_maxfrate, u_maxfrate, x_maxfrate, y_maxfrate) = (    150 2.048153e-02 -2.886035e+00 -3.009305e+00 )
+
+# Testing data 01 
+# DTStamp_FHdata_02 2023-06-03 17:32:49 256352100 

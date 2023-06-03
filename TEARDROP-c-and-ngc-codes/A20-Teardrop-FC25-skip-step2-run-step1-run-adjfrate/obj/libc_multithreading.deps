@@ -1,0 +1,46 @@
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_position.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_velocity.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_accelern.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc03_feedrate_limit.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc00_parametric_curve.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc06_decide_next_frate.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc07_iterate_u_next.o
+20230603092518
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/write_ngc_code.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc05_action_next_frate.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc01_lookahead_length.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc02_tang_accn_limit.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/calc04_integration_error.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/preempt_rt.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/main_usb-to-parallel-port.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/usb_parallel_port.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/pci_parallel_port.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_report_01.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/test_threads_01.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_min_max_int_dbl_in_array.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_dtstamp.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_random_int_dbl.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/c_parallel_port.o
+20230603092519
+/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC25-skip-step2-run-step1-run-adjfrate (copy)/obj/main_c_multithreading.o
+20230603092518
