@@ -1,18 +1,25 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_file>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
-      <vfs_file>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
+    <vfs_file>/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github/wruslancnc/TEARDROP-parametric-curve/TEARDROP-c-and-ngc-codes/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 733" >
-      <vfs_project>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
-      <vfs_file>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
+  </Project>
+  <Project >
+    <vfs_file >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
+      <vfs_file >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 1" line=" 1309" >
-      <vfs_project>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
-      <vfs_file>/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
+    <file_marker column=" 1" line=" 733">
+      <vfs_project >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
+      <vfs_file >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1309">
+      <vfs_project >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/c_multithreading.gpr</vfs_project>
+      <vfs_file >/home/wruslan/WOM-WRY-UMP-PhD/2023-01-15-Algo20-CNC-Parametric-Curve-TODO/A20-Teardrop-FC20-skip-step2-run-step1-run-adjfrate/src/main_c_multithreading.c</vfs_file>
     </file_marker>
   </Project>
   <Project >
